@@ -21,7 +21,7 @@ This is a React application that allows users to browse movies and filter them b
 ![Mobile View](./Images/mobile.png)
 
 ### Filtered Desktop View
-![Filtered Desktop View](./Images/filtered.png)
+![Filtered Desktop View](./Images/Filtered.png)
 
 ### Filtered Mobile View
 ![Filtered Mobile View](./Images/filtered%20mobile.png)
